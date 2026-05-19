@@ -1,9 +1,8 @@
 ## Hi, I'm Mark! 👋
 
-# 💫 About Me:
-I'm a PHP developer with 7 years of experience<br>
-I'm currently learning Nodejs and Nextjs<br>
-I graduated at Colegio De Sta. Teresa De Avila (2017)
+PHP developer with 7 years of experience<br>
+Currently expanding my skills in Node.js and Next.js development.
+BSIT graduate from Colegio De Sta. Teresa De Avila (2017)
 
 
 ## 🌐 Socials:
