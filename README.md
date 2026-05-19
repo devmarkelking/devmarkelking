@@ -11,7 +11,8 @@ BSIT graduate from Colegio De Sta. Teresa De Avila (2017)
 
 
 <hr>
-📂 Featured Project <br><br>
+
+# 📂 Featured Projects: 
 
 🌐 TrailReadyParts <br>
 https://www.trailreadyparts.com/ <br>
@@ -26,6 +27,8 @@ https://www.goodpricepharmacy.com.au/ <br>
 - less
 
 <hr>
-📫 Connect With Me <br><br>
+
+# 📫 Connect with me: 
+
 📧 Email: devmarkelking@gmail.com <br>
 🌐 https://www.linkedin.com/in/mark-elking <br>
