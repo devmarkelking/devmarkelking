@@ -1,7 +1,7 @@
 ## Hi, I'm Mark! 👋
 
 PHP developer with 7 years of experience<br>
-Currently expanding my skills in Node.js and Next.js development.
+Currently expanding my skills in Node.js and Next.js development.<br>
 BSIT graduate from Colegio De Sta. Teresa De Avila (2017)
 
 
